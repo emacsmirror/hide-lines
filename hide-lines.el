@@ -1,4 +1,4 @@
-;;; hide-lines.el --- Commands for hiding lines based on a regexp
+;;; hide-lines.el --- Commands for hiding lines based on a regexp  -*- lexical-binding: nil; -*-
 
 ;; Filename: hide-lines.el
 ;; Description: Commands for hiding lines based on a regexp
